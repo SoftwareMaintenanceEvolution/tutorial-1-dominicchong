@@ -7,5 +7,5 @@ I am eager to learn how software develop over time and the practices for softwar
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [Github profile](https://github.com/dominicchong)
+You can view my personalized GitHub profile [here](https://github.com/dominicchong)
 
