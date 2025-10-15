@@ -3,7 +3,7 @@
 Hi! I'm Dominic Chong, a student in the Framework-Based Software Design and Development course. 
 I am eager to learn how software develop over time and the practices for software maintenance.
 
-![My Image](Picture.jpg)  <!-- Link to the uploaded image -->
+![My Image](Picture.jpg | width=400)  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
